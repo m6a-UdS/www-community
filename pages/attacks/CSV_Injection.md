@@ -29,6 +29,7 @@ quite a few bug bounty programs. To remediate it, ensure that no cells
 begin with any of the following characters:
 
 - Equals to ("=")
+- Plus ("+")
 - At ("@")
 
 For further information, please refer to the following articles:
